@@ -16,5 +16,4 @@
 * E28 LoRa Modul
 * ESP32 D4 Modul
 * W2812B RGB Led
-* Fan Control
 * I2C Screen Support
