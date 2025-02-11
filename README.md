@@ -18,6 +18,7 @@
 * W2812B RGB Led
 * I2C Screen Support
 
+[Video](https://youtube.com/shorts/PznK_D05IgE)
 
 ### Build
 <img src="IMAGEs/assets/20241106_085341.jpg">
